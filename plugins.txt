@@ -1,0 +1,3 @@
+scm-api:latest
+script-security:latest
+workflow-aggregator:2.5
