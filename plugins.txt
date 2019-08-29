@@ -1,3 +1,11 @@
 scm-api:latest
 script-security:latest
-workflow-aggregator:2.5
+badge:1.8
+ssh-agent:1.17
+ssh-credentials:1.17
+ssh-slaves:1.30.0
+junit:1.28
+git:4.0.0-rc
+envinject:1.15
+cloudbees-folder:6.8
+active-directory:2.16
