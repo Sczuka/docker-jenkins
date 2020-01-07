@@ -1,6 +1,5 @@
 active-directory:2.16
 badge:1.8
-bitbucket-build-status-notifier:1.4.1
 cloudbees-folder:6.8
 command-launcher:1.3
 envinject:2.3.0
@@ -14,4 +13,5 @@ script-security:1.66
 ssh-agent:1.17
 ssh-credentials:1.17
 ssh-slaves:1.30.0
+stashNotifier:1.20
 windows-slaves:1.5
