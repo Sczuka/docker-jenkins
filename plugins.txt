@@ -1,5 +1,6 @@
 active-directory:2.16
 badge:1.8
+buildtriggerbadge:2.10
 cloudbees-folder:6.10.1
 command-launcher:1.4
 docker-commons:1.16
